@@ -296,10 +296,6 @@ Node classification:
 
 ---
 
-## Acknowledgements
-
-Developed as a B.Tech Project at **IIT Goa** under the guidance of the Department of Mechanical Engineering.
-
 ---
 
 ## License
